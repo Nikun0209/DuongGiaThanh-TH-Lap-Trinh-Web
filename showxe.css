@@ -1,0 +1,65 @@
+body {
+    padding: 0%;
+    margin: 0%;
+}
+/*NAVBAR*/
+.navbar-light {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #FFC312;
+    padding-left: 20px;
+    font-size: 18px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: white;
+    font-size: 20px;
+}
+.form-inline {
+    padding-top: 6px;
+}
+.form-inline .form-control {
+    border: 0.1px solid #FFC312;
+    border-radius: 15px;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+}
+.form-inline .btn {
+    color: #FFC312;
+    font-size: 18px;
+    background-color: transparent;
+    border: none;
+}
+.form-inline:hover .btn {
+    color: white;
+}
+.form-inline:hover .form-control {
+    border: 0.1px solid white;
+}
+/*END NAVBAR*/
+/*CHAM SOC KHACH HANG*/
+#name {
+    text-align: center;
+    color: #FFC312;
+    padding-top: 15px;
+    font-family: Arial;
+}
+.row {
+    padding-top: 20px;
+}
+.col-sm-5 p {
+    color: #FFC312;
+}
+
+.form-group > .pull-right {
+    background-color: #FFC312;
+}
+.form-group > .pull-right:hover {
+    background-color: white;
+    color: black;
+    font-weight: 700;
+}
+/*END CHAM SOC KHACH HANG*/
+/*FOOTER*/
+/*END FOOTER*/
