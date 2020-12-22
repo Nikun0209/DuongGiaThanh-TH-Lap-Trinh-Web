@@ -68,14 +68,14 @@
                             <div class="input-group-prepend">
                                 <span class="input-group-text"><i class="fas fa-user"></i></span>
                             </div>
-                            <input type="text" name="username" class="form-control" placeholder="Tài khoản">
+                            <input type="text" name="username" class="form-control" placeholder="Tài khoản: nikun2999">
                             
                         </div>
                         <div class="input-group form-group">
                             <div class="input-group-prepend">
                                 <span class="input-group-text"><i class="fas fa-key"></i></span>
                             </div>
-                            <input type="password" name="password" class="form-control" placeholder="Mật khẩu">
+                            <input type="password" name="password" class="form-control" placeholder="Mật khẩu: Giathanh2999">
                         </div>
                         <div class="form-group">
                             <button type="submit" name="btn_submit" class="btn float-right login_btn">Xác nhận</button>
