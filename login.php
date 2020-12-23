@@ -49,7 +49,7 @@
             } else {
                 $result2 = $loginAcc->getTenUser($userName, $passWord);
                 $_SESSION['ten_kh'] = $result2;
-                header('Location:views/lienhe.php');
+                header('Location:views/v_lienhe.php');
             }
         }
     }     
