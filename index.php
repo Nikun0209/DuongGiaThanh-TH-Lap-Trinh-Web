@@ -59,7 +59,7 @@ spl_autoload_register('loadClass');
                         $tenKH=$_SESSION['ten_kh'];
                         ?>
                         <li class="nav-item">
-                            <a class="nav-link" href="v_logout.php">ĐĂNG XUẤT</a>
+                            <a class="nav-link" href="views/v_logout.php">ĐĂNG XUẤT</a>
                         </li>
                         <li class="nav-item">
                     <a class="nav-link" style="font-size: 18px; margin-left: 30px; margin-top: 5px; color: #FFC312; border: 1px solid #FFC312; padding: 10px 10px 10px 10px; border-radius: 10px;"><?php echo "HELLO ".$tenKH ?></a>
